@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 20 18:15:41 2017
+
+@author: lx
+"""
+
+
+
 import socket
 def get_my_ip():
     """
